@@ -4,7 +4,7 @@ perpaulsen0@gmail.com | [LinkedIn](https://www.linkedin.com/in/per-paulsen) | [G
 
 ## Summary
 
-Economic Market Designer turned AI Product Engineer, built on 10+ years of making complex, data-driven decisions across research, startups, and industry. Now building AI-native software products end-to-end. Seeking senior roles in small, agile teams at the intersection of product thinking and AI engineering.
+Economic Market Designer (PhD summa cum laude, TUM; 4 A*/A-journal publications) turned AI Product Engineer. Built on 10+ years of making data-driven decisions across research, startups, and industry - including 20+ supervised machine learning theses with industry partners. Now building AI-native software products end-to-end and seeking senior roles in small, agile teams across product and AI engineering.
 
 ## Skills
 
@@ -12,24 +12,24 @@ Economic Market Designer turned AI Product Engineer, built on 10+ years of makin
 AI-Native Coding, Prompt & Context Engineering, LLM & RAG Integration, Agentic AI Systems & Orchestration, Product Strategy & Discovery, User Research, Roadmapping, Backlog Management
 
 **Machine Learning, Statistics & Data Science**
-Predictive Modeling, Causal Inference, A/B Testing, Experimental Design, Econometrics, Statistical Analysis, Business Analytics
+Deep Learning, Probabilistic Modeling, Forecasting, Causal Inference, A/B Testing, Experimental Design, Econometrics, Statistical Analysis, Business Analytics
 
 **Market & Mechanism Design**
 Combinatorial Auctions, Auction Theory, Algorithmic Mechanism Design, Game Theory, Behavioral Game Theory, Industrial Organization, Economic Modeling
 
 ## Portfolio
 
-**Expliq AI** (current) | [expliq-mvp.vercel.app](https://expliq-mvp.vercel.app) | [code](https://github.com/Per-Paulsen/expliq-mvp)<br>
+**Expliq AI** (MVP) | [expliq-mvp.vercel.app](https://expliq-mvp.vercel.app) | [code](https://github.com/Per-Paulsen/expliq-mvp)<br>
 Automation intelligence platform for no/low-code automations (e.g. n8n). Stack: `Claude Code`, `Next.js`, `TypeScript`, `Supabase` (`Postgres`), `Vercel`, `OpenRouter`/`Anthropic` LLMs; prototyped in `Lovable`.
 
-**APIQ** (current, reboot) | [apiq-mvp.vercel.app](https://apiq-mvp.vercel.app) | [code](https://github.com/Per-Paulsen/apiq-mvp)<br>
+**APIQ** (MVP) | [apiq-mvp.vercel.app](https://apiq-mvp.vercel.app) | [code](https://github.com/Per-Paulsen/apiq-mvp)<br>
 API Intelligence platform: LLM-mediated comprehension, scoring, and one-click improvement of OpenAPI specs. Rebooted from an `Express`/`Node.js` prototype. Stack: same as Expliq AI.
 
-**Reap** (2025) | [reap.zapier.app](https://reap.zapier.app/)<br>
+**Reap** (Prototype) | [reap.zapier.app](https://reap.zapier.app/)<br>
 Instant payout service for private sellers on second-hand platforms (e.g. Vinted). End-to-end product design. Stack: `Figma`, `Zapier`.
 
-**Retail Customer Analysis** (showcase) | [live site](https://per-paulsen.github.io/retail-customer-analysis/) | [code](https://github.com/Per-Paulsen/retail-customer-analysis)<br>
-End-to-end retail analytics: market basket, RFM, CLV, survival, forecasting, embeddings, causal uplift. Stack: `R`, `Python`.
+**Retail Analysis** (Showcase) | [live site](https://per-paulsen.github.io/retail-customer-analysis/) | [code](https://github.com/Per-Paulsen/retail-customer-analysis)<br>
+End-to-end analytics: market basket, RFM, CLV, survival, forecasting, embeddings, causal uplift. Stack: `R`, `Python`.
 
 ## Experience
 
@@ -51,8 +51,8 @@ End-to-end retail analytics: market basket, RFM, CLV, survival, forecasting, emb
 
 **Doctoral Researcher & Consultant** | TUM Graduate School | 08/2017 – 06/2021 | [gs.tum.de](https://www.gs.tum.de/gs/promovieren-an-der-tum/)
 - Consulted on procurement auction design for Kuka and Robert Bosch, delivering six-figure absolute and double-digit % cost savings.
-- Built smart-contract prototype of a four-stage reverse procurement auction on the blockchain. Stack: `Solidity`. [archive](https://github.com/Per-Paulsen/procurement-auction-archive)
-- Published 4 A*-journal papers on auction and mechanism design.
+- Built smart-contract of a four-stage procurement auction on the blockchain. Stack: `Solidity`. [archive](https://github.com/Per-Paulsen/procurement-auction-archive)
+- Published 4 A*/A-journal papers on auction and mechanism design.
 - Completed PhD dissertation summa cum laude on multi-unit package auctions.
 
 **Research Associate** | TU Munich, Computer Science | 06/2012 – 07/2017 | [cs.cit.tum.de/dss](https://www.cs.cit.tum.de/en/dss/home/)
